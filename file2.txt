@@ -1,1 +1,2 @@
-this is an entry to file2.txt from collaborator zpool
+this is an entry to file2.txt from collaborator zpool. 
+and this is a line added by the project owner. 
