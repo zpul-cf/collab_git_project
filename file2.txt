@@ -1,0 +1,1 @@
+this is an entry to file2.txt from collaborator zpool
